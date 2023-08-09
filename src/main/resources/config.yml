@@ -1,0 +1,22 @@
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  database: "hyren"
+  username: "root"
+  password: "senha123"
+
+user:
+  init: 100
+  damage: 300
+
+candy:
+  popcorn:
+    name: "&ePipoca"
+    texture: "18ebcdeba1cf65bd5f815276b4a46f37ba6bca85673c34d4dd97761fc628c2c2"
+    sugar: 50
+    food: 2
+insulin:
+  insulin-100:
+    name: "&bInsulina"
+    texture: "eb76b4ee988572297cbd874683bee96ae3c55ce94c004e51adc82cee16cd0b0c"
+    ml: 100

@@ -1,0 +1,4 @@
+name: Candy
+author: Kaiquy
+version: 1.0
+main: com.github.kaiquy.candy.CandyPlugin
